@@ -1,0 +1,20 @@
+{
+  "name": "llamaindex-capsolver",
+  "owner": "capsolver-ai",
+  "description": "Official CapSolver FunctionTools for LlamaIndex agents and agent workflows.",
+  "homepage": "https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/",
+  "topics": [
+    "capsolver",
+    "llamaindex",
+    "ai-agents",
+    "captcha",
+    "agent-tools",
+    "function-calling",
+    "python",
+    "llm",
+    "rag",
+    "browser-automation"
+  ],
+  "visibility": "public",
+  "status": "next-wave"
+}
