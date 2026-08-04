@@ -4,6 +4,7 @@ title: llamaindex-capsolver
 type: software
 authors:
   - name: capsolver-ai
+repository-code: https://github.com/capsolver-ai/llamaindex-capsolver
 url: https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/
 license: ISC
 version: 0.1.0
