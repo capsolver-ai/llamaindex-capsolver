@@ -1,20 +1,9 @@
 {
   "name": "llamaindex-capsolver",
   "owner": "capsolver-ai",
-  "description": "Official CapSolver FunctionTools for LlamaIndex agents and agent workflows.",
-  "homepage": "https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/",
-  "topics": [
-    "capsolver",
-    "llamaindex",
-    "ai-agents",
-    "captcha",
-    "agent-tools",
-    "function-calling",
-    "python",
-    "llm",
-    "rag",
-    "browser-automation"
-  ],
-  "visibility": "public",
-  "status": "next-wave"
+  "description": "Runnable LlamaIndex agent examples using the CapSolver Agent library.",
+  "homepage": "https://docs.capsolver.com/en/guide/ai/agent-tools/",
+  "topics": ["capsolver", "llamaindex", "ai-agents", "agent-tools", "captcha", "examples", "python", "llm", "function-calling", "automation"],
+  "visibility": "private",
+  "status": "demo"
 }
